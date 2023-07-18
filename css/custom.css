@@ -1,0 +1,102 @@
+.footer_text {
+  text-align: center;
+  width: 100%;
+  height: 100px;
+  color: aliceblue;
+  background-color: rgb(44, 54, 95);
+  align-content: center;
+}
+.card-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 70px;
+}
+.card {
+  background-color: rgba(240, 220, 220, 0.653);
+}
+.card1 {
+  height: 250px;
+  padding-top: 60px;
+  background-color: rgb(231, 137, 137);
+  margin-bottom: 50px;
+}
+.card2 {
+  padding-top: 60px;
+  background-color: rgb(159, 140, 255);
+  margin-bottom: 50px;
+}
+.card3 {
+  padding-top: 60px;
+  background-color: rgba(204, 230, 87, 0.783);
+  margin-bottom: 50px;
+}
+.content1 {
+  width: 100%;
+  height: 300px;
+  background-image: url(../images/bg_image1.jpeg);
+}
+.card-box h4 {
+  margin: 20px;
+  text-align: center;
+}
+.card-box p {
+  text-align: center;
+}
+.content2 {
+  width: 100%;
+  height: 500px;
+  background-image: url(../images/anime-nature.avif);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.media {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.cont2 {
+  background-color: blue;
+  width: 30%;
+}
+.data {
+  padding-top: 200px;
+}
+.data2 {
+  padding-top: 20px;
+}
+.data h4 {
+  font-size: 45px;
+  width: 300px;
+  color: aliceblue;
+}
+.cont3 {
+  margin: 4%;
+}
+
+.contents {
+  margin-top: 40px;
+  height: 250px;
+  text-align: left;
+}
+.item h3 {
+  padding-top: 20px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+.item img {
+  margin-left: 150px;
+}
+.item p {
+  text-align: left;
+  padding-top: 0%;
+  margin: 0%;
+}
+.item img {
+  border-radius: 50px;
+}
+.card-title {
+  text-align: center;
+  margin: 20px;
+}
